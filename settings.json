@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "fadfdwf.aternos.me",
+    "port": 60937,
     "version": "",
     "try-creative": false
   },
@@ -26,14 +26,13 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
+    "chat-messages"
+    {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ""
       ]
     },
     "chat-log": true,
@@ -64,7 +63,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
